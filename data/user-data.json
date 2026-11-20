@@ -1,0 +1,25 @@
+{
+  "35c0100e-567e-4f44-837f-badb48c0c8a7": {
+    "favorites": [
+      {
+        "id": "track2.mp3",
+        "title": "track2",
+        "url": "/music/track2.mp3"
+      },
+      {
+        "id": "Ed Sheeran — Shape of You.mp3",
+        "title": "Ed Sheeran — Shape of You",
+        "url": "/music/Ed%20Sheeran%20%E2%80%94%20Shape%20of%20You.mp3"
+      }
+    ]
+  },
+  "4f72bad4-fc5f-41f0-8531-27a9d6322448": {
+    "favorites": [
+      {
+        "id": "Ed Sheeran — Shape of You.mp3",
+        "title": "Ed Sheeran — Shape of You",
+        "url": "/music/Ed%20Sheeran%20%E2%80%94%20Shape%20of%20You.mp3"
+      }
+    ]
+  }
+}

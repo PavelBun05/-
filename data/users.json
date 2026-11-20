@@ -1,0 +1,18 @@
+[
+  {
+    "id": "35c0100e-567e-4f44-837f-badb48c0c8a7",
+    "username": "цйукекногнека",
+    "displayName": "ывфуыквпар",
+    "salt": "af106db0acb940840adbb77fb554f6bb",
+    "passwordHash": "bebd3254895d4fa6ed02c92979d9ac8dec0636d886d936ead85ae88bd266c795d9018e07c2afa20087a3b5a27510f57d64eeaad1a12bf627fa58b5c8f94e50a5",
+    "createdAt": "2026-11-20T11:48:56.976Z"
+  },
+  {
+    "id": "4f72bad4-fc5f-41f0-8531-27a9d6322448",
+    "username": "1235678ш7",
+    "displayName": "ыфваварпрлбгорп",
+    "salt": "693d379c91044cbf37fa9b277747e572",
+    "passwordHash": "873dcd71e618ce3df278792f592d96670499ecda4482ed54f3e838f9e081a88f6936f2dcc16e5154782e7552aa2c1c08c144a8a1c9e05d010729f54a73bd08a5",
+    "createdAt": "2026-11-20T11:49:21.033Z"
+  }
+]

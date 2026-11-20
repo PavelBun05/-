@@ -1,0 +1,41 @@
+[
+  {
+    "id": "812bbc9d-dc8d-4dcf-a5aa-19a3a46ed927",
+    "name": "123szcxxzc",
+    "mode": "common",
+    "ownerId": "35c0100e-567e-4f44-837f-badb48c0c8a7",
+    "ownerName": "ывфуыквпар",
+    "sharedWith": "4f72bad4-fc5f-41f0-8531-27a9d6322448",
+    "sharedWithName": "ыфваварпрлбгорп",
+    "tracks": [
+      {
+        "id": "Ed Sheeran — Shape of You.mp3",
+        "title": "Ed Sheeran — Shape of You",
+        "url": "/music/Ed%20Sheeran%20%E2%80%94%20Shape%20of%20You.mp3"
+      }
+    ],
+    "createdAt": "2026-11-20T12:25:53.453Z"
+  },
+  {
+    "id": "e35e9148-1d97-468d-bca9-e9f0f5dd8599",
+    "name": "123",
+    "mode": "union",
+    "ownerId": "35c0100e-567e-4f44-837f-badb48c0c8a7",
+    "ownerName": "ывфуыквпар",
+    "sharedWith": "4f72bad4-fc5f-41f0-8531-27a9d6322448",
+    "sharedWithName": "ыфваварпрлбгорп",
+    "tracks": [
+      {
+        "id": "track2.mp3",
+        "title": "track2",
+        "url": "/music/track2.mp3"
+      },
+      {
+        "id": "Ed Sheeran — Shape of You.mp3",
+        "title": "Ed Sheeran — Shape of You",
+        "url": "/music/Ed%20Sheeran%20%E2%80%94%20Shape%20of%20You.mp3"
+      }
+    ],
+    "createdAt": "2026-11-20T12:24:16.023Z"
+  }
+]
